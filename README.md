@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crippe-90
+- 👋 Hi, I’m Christoffer
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning object oriented programing in C++
 - 💞️ I’m looking to collaborate on interesting projects
